@@ -1,2 +1,2 @@
 # Vbai
-"Vbai" models are models trained on MRI images for disease diagnosis. Developed by Neurazum.
+"Vbai" models are trained on MRI images for disease diagnosis. Developed by Neurazum.
