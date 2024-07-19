@@ -112,10 +112,6 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 
 Özetle Vbai modelleri, hastanın demans durumunu tespit ederek tıp alanında çalışanlara kolaylık sağlamak amacıyla teşhis koyabilen görüntü işleme modelidir.
 
-#### Donanım
-
-Tek ihtiyacınız olan şey MRI ve fMRI (Ya da görüntüleri)!
-
 ## Daha Fazla
 
 LinkedIn: https://www.linkedin.com/company/neurazum
@@ -243,10 +239,6 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 #### Summary
 
 In summary, Vbai models are image processing models that can diagnose the patient's dementia status in order to provide convenience to medical professionals.
-
-#### Hardware
-
-All you need is MRI and fMRI (or images)!
 
 ## More
 
