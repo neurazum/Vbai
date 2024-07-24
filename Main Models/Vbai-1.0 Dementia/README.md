@@ -35,7 +35,7 @@ transform = transforms.Compose([
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
 ])
 
-class_names = ['No Dementia', 'Mild Dementia', 'Avarage Dementia', 'Very Mild Dementia']
+class_names = ['No Dementia', 'Mild Dementia', 'Average Dementia', 'Very Mild Dementia']
 
 def predict(image_path, model, transform):
     image = Image.open(image_path).convert('RGB')
