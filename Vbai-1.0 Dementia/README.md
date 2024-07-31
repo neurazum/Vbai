@@ -8,6 +8,8 @@
 
 ## The "Vbai-1.0 Dementia" model has been trained to diagnose the patient's dementia condition on MRI and fMRI images.
 
+[![Vbai-1.1](https://img.youtube.com/vi/qUkId3S9W94/0.jpg)](https://youtu.be/wDfsFwusGQU)
+
 # Kullanım / Usage
 
 ```python
