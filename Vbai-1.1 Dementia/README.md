@@ -8,6 +8,8 @@
 
 ## The "Vbai-1.1 Dementia" model is a fine-tuned version of the previous model, trained with more data.
 
+[![Vbai-1.1](https://img.youtube.com/vi/qUkId3S9W94/0.jpg)](https://youtu.be/wDfsFwusGQU)
+
 # Kullanım / Usage
 
 ```python
