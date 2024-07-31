@@ -99,6 +99,7 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 ## Değerlendirme
 
 - Vbai-1.0 Dementia => (Doğruluk oranı en az her ihtimalde = %90) (DEMANS DURUMLARI)
+- Vbai-1.1 Dementia => (Doğruluk oranı en az her ihtimalde = 90%) (DEMANS DURUMLARI)
 
 ### Sonuçlar
 
@@ -227,6 +228,7 @@ show_image_with_prediction(test_image_path, prediction, confidence, class_names)
 ## Evaluation
 
 - Vbai-1.0 Dementia => (Accuracy rate at least in all probability = 90%) (DEMENTIA STATES)
+- Vbai-1.1 Dementia => (Accuracy rate at least in all probability = 90%) (DEMENTIA STATES)
 
 ### Results
 
